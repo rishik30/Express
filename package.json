@@ -1,0 +1,22 @@
+{
+  "name": "express-handson",
+  "version": "1.0.0",
+  "description": "practicing expressjs and node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishik30/Express.git"
+  },
+  "author": "Rishabh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishik30/Express/issues"
+  },
+  "homepage": "https://github.com/rishik30/Express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
